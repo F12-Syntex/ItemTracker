@@ -41,7 +41,7 @@ public class Track extends SubCommand {
     	}
     	*/
 
-		ItemStack item = player.getItemInHand();
+		ItemStack item = player.getInventory().getItemInMainHand();
 		
     	Tracking tracking = NoTheif.getInstance().configManager.tracking;
 

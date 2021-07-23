@@ -28,6 +28,7 @@ import com.notheif.tracking.ReasonFactory;
 import com.notheif.utils.StringMinipulation;
 import com.notheif.utils.Time;
 
+@SuppressWarnings("deprecation")
 public class TrackingEvent extends SubEvent{
 
 	private Settings settings;
