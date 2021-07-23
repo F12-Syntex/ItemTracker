@@ -1,0 +1,8 @@
+name: NoThief
+version: 1.0
+api-version: 1.8
+main: com.notheif.main.NoTheif
+author: Unfairbody96
+commands:
+  thieftrack:
+    description: NoThief main command
